@@ -150,9 +150,6 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.2.3</version>
-                <configuration>
-                    <outputDirectory>/Users/dlinka/apache-tomcat-8.5.49/webapps/</outputDirectory>
-                </configuration>
             </plugin>
         </plugins>
     </build>
